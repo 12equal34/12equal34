@@ -2,9 +2,9 @@
 
 ### Gyeongrok Min @12equal34
 
-😊 Hello, I’m Gyeongrok Min.
-
 * Konkuk University, B.S. expected in physics & mathematics
+
+😊 Hello, I’m Gyeongrok Min.
 
 I’m interested in physics & graphics in virtual worlds.
 
