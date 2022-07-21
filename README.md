@@ -4,6 +4,8 @@
 
 😊 Hello, I’m Gyeongrok Min.
 
+* Konkuk University, B.S. expected in physics & mathematics
+
 I’m interested in physics & graphics in virtual worlds.
 
 I’m currently learning c++ language & the basic knowledge of computer s/e.
